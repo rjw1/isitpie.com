@@ -8,7 +8,7 @@
 # Site settings
 title: Is it pie?
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "https://isitpie.com" # the base hostname & protocol for your site
 twitter_username: isitpie
 
 # Build settings
